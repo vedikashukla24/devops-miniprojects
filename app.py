@@ -5,7 +5,7 @@ def login():
     return username
 
 def dashboard():
-    print("\nDashboard Version A")
+    print("\nDashboard Version B")
     print("1. View Profile")
     print("2. Settings")
     print("3. Logout")
